@@ -1,0 +1,1 @@
+{"backend": "gemini", "model": "gemini-3.8-flash", "thinking_level": "low", "text": "5 nm in diameter", "prompt_tokens": 50, "cached_prompt_tokens": 0, "output_tokens": 4, "thinking_tokens": 469, "wall_ms": 6001.0, "load_ms": null, "prompt_eval_ms": null, "eval_ms": null, "cold": false, "cached": false, "finish_reason": "FinishReason.STOP", "retries": 5}

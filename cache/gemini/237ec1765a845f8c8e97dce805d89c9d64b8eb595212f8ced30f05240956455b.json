@@ -1,0 +1,1 @@
+{"backend": "gemini", "model": "gemini-3.8-flash", "thinking_level": "low", "text": "King Charles III (Charles the Simple)", "prompt_tokens": 58, "cached_prompt_tokens": 0, "output_tokens": 8, "thinking_tokens": 0, "wall_ms": 1964.38, "load_ms": null, "prompt_eval_ms": null, "eval_ms": null, "cold": false, "cached": false, "finish_reason": "FinishReason.STOP", "retries": 0}

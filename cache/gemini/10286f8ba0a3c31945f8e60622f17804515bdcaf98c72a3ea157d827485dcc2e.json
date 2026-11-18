@@ -1,0 +1,1 @@
+{"backend": "gemini", "model": "gemini-3.8-flash", "thinking_level": "low", "text": "High art and folk music", "prompt_tokens": 402, "cached_prompt_tokens": 0, "output_tokens": 5, "thinking_tokens": 0, "wall_ms": 1886.41, "load_ms": null, "prompt_eval_ms": null, "eval_ms": null, "cold": false, "cached": false, "finish_reason": "FinishReason.STOP", "retries": 0}

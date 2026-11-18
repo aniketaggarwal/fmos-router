@@ -1,0 +1,1 @@
+{"backend": "gemini", "model": "gemini-3.8-flash", "thinking_level": "low", "text": "San Jose Marriott", "prompt_tokens": 59, "cached_prompt_tokens": 0, "output_tokens": 3, "thinking_tokens": 66, "wall_ms": 3936.0, "load_ms": null, "prompt_eval_ms": null, "eval_ms": null, "cold": false, "cached": false, "finish_reason": "FinishReason.STOP", "retries": 0}

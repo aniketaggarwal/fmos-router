@@ -1,0 +1,8 @@
+requests
+google-genai
+datasets
+rank_bm25
+numpy
+scikit-learn
+sentence-transformers
+matplotlib

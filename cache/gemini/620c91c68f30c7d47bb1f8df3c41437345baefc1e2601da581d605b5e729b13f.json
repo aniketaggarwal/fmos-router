@@ -1,0 +1,1 @@
+{"backend": "gemini", "model": "gemini-3.8-flash", "thinking_level": "low", "text": "CBSSports.com", "prompt_tokens": 58, "cached_prompt_tokens": 0, "output_tokens": 5, "thinking_tokens": 23, "wall_ms": 2332.4, "load_ms": null, "prompt_eval_ms": null, "eval_ms": null, "cold": false, "cached": false, "finish_reason": "FinishReason.STOP", "retries": 0}
